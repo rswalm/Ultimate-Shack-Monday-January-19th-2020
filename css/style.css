@@ -459,7 +459,7 @@ header {
 /* __________ Clean Code __________ */
 .cleancode_block {
 	padding:96px 0 78px;
-	background-image:url(../images/clean_code_bg.jpg);
+	background-image:url(../images/shack8.jpg);
 	background-size:cover;
 	background-position:0 0;
 	background-attachment:fixed !important;
@@ -552,7 +552,7 @@ header {
 .nav-tabs li.active a,
 .nav-tabs li.active a:hover,
 .nav-tabs li.active a:focus {
-	background-color:#fff;
+	background-color:rgb(245, 244, 244);
 }
 
 .nav-tabs li a:hover i {
@@ -576,7 +576,7 @@ header {
 	font-weight:400;
 	line-height:20px;
 	font-size:20px;
-	color:#333;
+	color:rgb(248, 247, 247);
 	opacity:0;
 	transform:translateY(-30px);
 	-o-transform:translateY(-30px);
